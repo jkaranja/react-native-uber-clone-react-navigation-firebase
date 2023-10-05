@@ -1,5 +1,9 @@
 node_modules/
 .expo/
+assets/
+fastlane/
+android/
+.env
 dist/
 npm-debug.*
 *.jks
